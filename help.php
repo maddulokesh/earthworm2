@@ -56,7 +56,7 @@
                             <div class="form-check">
                                 <input type="checkbox" class="form-check-input" name="approve" id="approve" value="">
                                 <label class="form-check-label" for="approve">
-                                    <strong>May we contact you?</strong>
+                                    <strong>May we contact?</strong>
                                 </label>
                             </div>
                         </div>
